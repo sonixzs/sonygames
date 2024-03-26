@@ -1,0 +1,37 @@
+
+
+body{
+background: #FDE4E7;
+}
+
+
+.pink{
+position: absolute;
+margin: right;
+width: 878px;
+height: 879px;
+background: #FCD0E6;
+}
+
+.rectangle {
+    position: absolute;
+    width: 1920px;
+    height: 205px;
+    background: linear-gradient(90deg, #FEA6D8 0%, #D0B2E9 49.5%, #58C1F1 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.title{
+position: absolute;
+width: 1891px;
+height: 102px;
+
+background: #F6C6FA;
+border-radius: 20px;
+}
+
+
+
+
+
+
