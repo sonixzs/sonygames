@@ -194,5 +194,39 @@ form {
     content: "\f002";
     font-family: FontAwesome;
     font-size: 16px;
-    color: #F9F0DA;
+    color: #f9daf5;
+  }
+
+  #laiks {
+    font-family: 'Inter';
+    font-style: italic;
+    color: #020202;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 1px;
+    
+  }
+  #data {
+  
+    color: #000000;
+    font-family: 'Inter';
+    font-style: italic;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+  .laiks1{
+    background: linear-gradient(180deg, rgba(160, 217, 240, 0.71) 35.57%, #FFA8F0 100%);
+      /* background-color: #e9a4d4; */
+      padding: 25px;
+      max-width: 250px;
+      width: 100%;
+      text-align: center;
+      border-radius: 10px;
+      margin: 0 auto;
+      margin-left: 10px;
+      position: fixed;
+      bottom: 10px;
+  
   }
